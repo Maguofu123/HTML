@@ -55,3 +55,9 @@
 滑块range
 
 搜索search
+
+hidden隐藏域
+
+disabled无法选中
+
+readonly只读
