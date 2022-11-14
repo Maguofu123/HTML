@@ -43,3 +43,15 @@
 
 # day 3
 按钮button
+
+下拉框select
+
+文本域textarea
+
+文件域input里的file属性
+
+验证:邮箱，url，数字验证
+
+滑块range
+
+搜索search
