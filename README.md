@@ -61,3 +61,9 @@ hidden隐藏域
 disabled无法选中
 
 readonly只读
+
+placeholder提示信息
+
+required非空判断
+
+pattern正则表达式
